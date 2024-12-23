@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\nadia\\Desktop\\Hafta 8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{72797E7C-12FF-A7C0-0760-FC9EA4A7D4AF}|Assembly-CSharp.csproj|c:\\users\\nadia\\desktop\\hafta 8\\assets\\scripts\\brain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{72797E7C-12FF-A7C0-0760-FC9EA4A7D4AF}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\brain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\nadia\\desktop\\hafta 8\\assets\\scripts\\ballstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\ballstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Brain.cs",
+              "DocumentMoniker": "C:\\Users\\nadia\\Desktop\\Hafta 8\\Assets\\Scripts\\Brain.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Brain.cs",
+              "ToolTip": "C:\\Users\\nadia\\Desktop\\Hafta 8\\Assets\\Scripts\\Brain.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Brain.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAAwKUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:17:44.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BallState.cs",
+              "DocumentMoniker": "C:\\Users\\nadia\\Desktop\\Hafta 8\\Assets\\Scripts\\BallState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BallState.cs",
+              "ToolTip": "C:\\Users\\nadia\\Desktop\\Hafta 8\\Assets\\Scripts\\BallState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BallState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T20:17:09.613Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
